@@ -15,6 +15,7 @@ public class VideoThumbnail {
     public static final double SECONDS_BETWEEN_FRAMES = 10;
 
     private static final String inputFile = "E:\\20.dropboxwork\\Dropbox\\Dropbox\\my_work\\refer\\orang0914.mp4";
+    //private static final String inputFile = "E:"+System.lineSeparator()+"20.dropboxwork"+System.lineSeparator()"Dropbox\\Dropbox\\my_work\\refer\\orang0914.mp4";
     private static final String outputDIr = "D:\\images\\snapshot";
 
     private static int mVideoStreamIndex = -1;
